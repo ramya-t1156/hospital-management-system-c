@@ -1,2 +1,70 @@
-# hospital-management-system-c
-A simple console-based Hospital Management System written in C. It supports managing patient records, doctor details, appointments, billing, and persistent storage using file handling. Ideal for beginners learning structured programming and file I/O in C.
+# Hospital Management System (C Project)
+
+##  Overview
+This is a **console-based Hospital Management System** written in C.  
+It allows hospital staff to:
+- Add, view, search, edit, and delete **patient records**
+- Manage **doctor details**
+- Schedule and view **appointments**
+- Generate **bills**
+- Store data persistently using **file handling**
+
+This project is designed for beginners learning **structured programming** and **file I/O in C**.
+
+---
+
+##  Features
+-  **Patient Management**: Add, view, search, edit, delete patient records  
+-  **Doctor Management**: Add and view doctor details  
+-  **Appointments**: Take and view appointments  
+-  **Billing**: Generate patient bills  
+-  **Data Persistence**: Save and load data using files  
+
+---
+
+##  Technologies Used
+- **C Programming Language**
+- **File Handling in C**
+- **Structs** for data organization
+
+---
+
+## 📂 File Structure
+```
+
+hospital-management-system/
+│
+├── hospital.c        # Main source code
+├── patients.txt      # Stores patient data (auto-generated)
+├── doctors.txt       # Stores doctor data (auto-generated)
+└── README.md
+
+````
+---
+
+##  How to Run
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/hospital-management-system-c.git
+````
+
+2. **Navigate to the project folder**
+
+   ```bash
+   cd hospital-management-system-c
+   ```
+3. **Compile the program**
+
+   ```bash
+   gcc hospital.c -o hospital
+   ```
+4. **Run the program**
+
+   ```bash
+   ./hospital
+   ```
+
+---
+
+## 📸 Example Screenshot
+<img width="946" height="472" alt="image" src="https://github.com/user-attachments/assets/2dd8dafa-03a4-4f68-9d83-d036bf566146" />

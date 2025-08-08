@@ -52,17 +52,17 @@ hospital-management-system/
 
    ```bash
    cd hospital-management-system-c
-   ```
+````
 3. **Compile the program**
 
    ```bash
    gcc hospital.c -o hospital
-   ```
+````
 4. **Run the program**
 
    ```bash
    ./hospital
-   ```
+````
 
 ---
 

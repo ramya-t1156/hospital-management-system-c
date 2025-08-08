@@ -42,12 +42,5 @@ hospital-management-system/
 ````
 ---
 
-**To Compile the program**
-   ```bash
-   gcc hospital.c -o hospital
-````
-
----
-
 ## 📸 Example Screenshot
 <img width="946" height="472" alt="image" src="https://github.com/user-attachments/assets/2dd8dafa-03a4-4f68-9d83-d036bf566146" />
